@@ -1,6 +1,6 @@
 # missing-docs-uploader
 A platform where student can upload missing documents
-
+And also find missing documents 
 This project allows students to securely upload missing or pending academic documents for verification and record-keeping.
 
 ## Features
